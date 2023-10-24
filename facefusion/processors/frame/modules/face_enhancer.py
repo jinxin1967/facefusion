@@ -23,27 +23,27 @@ MODELS : Dict[str, ModelValue] =\
 {
 	'codeformer':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/codeformer.onnx',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/codeformer.onnx',
 		'path': resolve_relative_path('../.assets/models/codeformer.onnx')
 	},
 	'gfpgan_1.2':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.2.onnx',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.2.onnx',
 		'path': resolve_relative_path('../.assets/models/GFPGANv1.2.onnx')
 	},
 	'gfpgan_1.3':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.3.onnx',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.3.onnx',
 		'path': resolve_relative_path('../.assets/models/GFPGANv1.3.onnx')
 	},
 	'gfpgan_1.4':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.4.onnx',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/GFPGANv1.4.onnx',
 		'path': resolve_relative_path('../.assets/models/GFPGANv1.4.onnx')
 	},
 	'gpen_bfr_512':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/GPEN-BFR-512.onnx',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/GPEN-BFR-512.onnx',
 		'path': resolve_relative_path('../.assets/models/GPEN-BFR-512.onnx')
 	}
 }
