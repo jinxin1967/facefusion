@@ -24,19 +24,19 @@ MODELS: Dict[str, ModelValue] =\
 {
 	'realesrgan_x2plus':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRGAN_x2plus.pth',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRGAN_x2plus.pth',
 		'path': resolve_relative_path('../.assets/models/RealESRGAN_x2plus.pth'),
 		'scale': 2
 	},
 	'realesrgan_x4plus':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRGAN_x4plus.pth',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRGAN_x4plus.pth',
 		'path': resolve_relative_path('../.assets/models/RealESRGAN_x4plus.pth'),
 		'scale': 4
 	},
 	'realesrnet_x4plus':
 	{
-		'url': 'https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRNet_x4plus.pth',
+		'url': 'https://ghproxy.com/https://github.com/facefusion/facefusion-assets/releases/download/models/RealESRNet_x4plus.pth',
 		'path': resolve_relative_path('../.assets/models/RealESRNet_x4plus.pth'),
 		'scale': 4
 	}
